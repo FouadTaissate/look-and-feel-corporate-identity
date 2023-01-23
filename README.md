@@ -1,19 +1,10 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Welkom bij mijn visual thinking website!
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Ik ben begonnen aan een component waarbij ik html, css en javascript heb gebruikt.
+Ik had als User Story: Als student wil ik een mini-cursus kunnen volgen over Visual Thinking-principes zodat ik kan begrijpen wat Visual Thinking inhoud.
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/112860051/214177883-f12b6d71-90e7-4714-98f3-f4909bb2556a.png">
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-## Bronnen
+De link naar de website kan je ook hier vinden: https://fouadtaissate.github.io/look-and-feel-corporate-identity/
 
 ## Licentie
 
