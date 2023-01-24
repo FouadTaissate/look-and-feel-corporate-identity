@@ -6,9 +6,21 @@
 }
 
 html {
+  --blue: rgb(14, 14, 174);
   --dark-blue: #090940;
   --orange: #feb51e;
   --rigid: rigid-square, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: black;
+    --dark-blue: #feb51e;
+  }
+
+  header {
+    color: white;
+  }
 }
 
 p,
@@ -76,7 +88,7 @@ header {
 }
 
 header {
-  color: rgb(14, 14, 174);
+  color: var(--blue);
   font-family: var(--rigid);
   max-height: -webkit-fill-available;
   margin-right: 2em;
@@ -84,7 +96,7 @@ header {
 
 header > button {
   width: 6em;
-  color: rgb(14, 14, 147);
+  color: var(--blue);
   font-family: var(--rigid);
   border: none;
   background-color: white;
@@ -179,13 +191,13 @@ main {
   width: 100%;
   height: 100%;
   flex: 1 0 100%;
-  color: #090940;
+  color: var(--dark-blue);
   display: inline-block;
 }
 
 .slide:nth-child(1),
 .slide:nth-child(7) {
-  background-color: #090940;
+  background-color: var(--dark-blue);
   color: white;
   padding: 4rem;
 }
@@ -232,7 +244,7 @@ main {
 
 #content6 > a {
   margin-top: 1em;
-  background-color: #090940;
+  background-color: var(--dark-blue);
   color: white;
 }
 
